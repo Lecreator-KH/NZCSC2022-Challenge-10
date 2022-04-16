@@ -1,2 +1,4 @@
 The Python Programming Foundation has issued a statement announcing that they have chosen to retire Python2 on January 1, 2020, effective immediately.
 Furthermore, they stated that “if you require assistance with Python 2 software, many volunteers will be happy to assist you, but with time, the number of volunteers who are willing to assist you will diminish.” It will be explored in detail in this blog post what the causes were, what the security consequences were, and what security flaws were discovered and exploited.
+
+The final version of Python 2.0 was released on October 16, 2000. Since then, the Python Programming Foundation has constantly been rolling out updates, adding features and making big changes in the programming language. In 2006 they came up with Python 3.0, but by then most people had already developed a taste of Python 2. Many did not consider upgrading to Python 3.0 so they worked both on Python 2 and Python 3.
