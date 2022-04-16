@@ -1,3 +1,5 @@
 ## 2022
 
-1. Not that easy!
+SSB3YXMgdG9sZCBub3QgdG8gbmFtZSB5b3Uga25vdyB3aG8K Tm90IGFsbCB0aG9zZSB3aG8gd2FuZGVyIGFyZSBsb3N0LiDigJQgQmlsYm8gQmFnZ2lucy4K QWxsIHdlIGhhdmUgdG8gZGVjaWRlIGlzIHdoYXQgdG8gZG8gd2l0aCB0aGUgdGltZSB0aGF0IGlzIGdpdmVuIHVzLgo=
+
+I wasn't supposed to write those lines. Removed them.
