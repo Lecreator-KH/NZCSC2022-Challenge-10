@@ -1,3 +1,3 @@
 ## 2022
 
-1. Aint that easy friend.
+1. Not that easy!
