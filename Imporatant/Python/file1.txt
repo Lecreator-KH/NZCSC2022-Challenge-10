@@ -1,1 +1,2 @@
 Even though Python 2 is no longer receiving official support, we can’t ignore the fact that the vast majority of commercial applications are still developed in Python2 and that the vast majority of organizations have no plans to switch to Python3. The majority of the repositories on GitHub are written in Python2, and the vast majority of packages are available for Python2. 
+When was the last time you used pip3 instead of pip to install a package that you liked?
