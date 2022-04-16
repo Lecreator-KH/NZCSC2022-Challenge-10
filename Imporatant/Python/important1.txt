@@ -1,1 +1,2 @@
 The Python Programming Foundation has issued a statement announcing that they have chosen to retire Python2 on January 1, 2020, effective immediately.
+Furthermore, they stated that “if you require assistance with Python 2 software, many volunteers will be happy to assist you, but with time, the number of volunteers who are willing to assist you will diminish.” It will be explored in detail in this blog post what the causes were, what the security consequences were, and what security flaws were discovered and exploited.
