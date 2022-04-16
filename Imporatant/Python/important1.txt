@@ -1,0 +1,1 @@
+The Python Programming Foundation has issued a statement announcing that they have chosen to retire Python2 on January 1, 2020, effective immediately.
