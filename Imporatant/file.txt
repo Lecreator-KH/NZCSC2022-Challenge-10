@@ -1,3 +1,0 @@
-PHP by far is one of the most common languages used when it comes to constructing web apps with the others being JS, go, Ruby. PHP is so ubiquitous that the Content Management Systems like WordPress and Joomla are exclusively built on PHP.
-
-Over the years, several vulnerabilities have been discovered in PHP and the PHP Development team has published a lot of updates to correct those issues.
